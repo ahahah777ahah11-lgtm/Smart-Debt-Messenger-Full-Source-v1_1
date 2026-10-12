@@ -1,0 +1,5 @@
+App name: مرسال الديون الذكي
+Package: com.smartdebt.messenger
+Version name: 1.1.0
+Version code: 2
+Entry file: index.html (ZIP root)
