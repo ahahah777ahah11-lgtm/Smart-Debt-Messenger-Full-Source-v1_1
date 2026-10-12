@@ -1,0 +1,10 @@
+{
+  "name": "مرسال الديون الذكي",
+  "short_name": "مرسال الديون",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#0c172b",
+  "lang": "ar",
+  "dir": "rtl"
+}
